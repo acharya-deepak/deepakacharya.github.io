@@ -26,29 +26,49 @@ I am a software engineer and a researcher familiar with gathering, cleaning, and
 ### Principal Research Scientist I (May 2022 – Present)  
 **Information Technology and Systems Center, The University of Alabama in Huntsville**, Huntsville, AL
 
-- **NASA Cloud-based Analytical Framework for Precipitation**  
-    In collaboration with the NASA Marshall Space Flight Center (NASA/MSFC), the focus of this project is to develop an application that involves software development and machine learning model development to enhance the resolution of GPM data for improved identification of convective scale precipitation features, particularly outside the range of ground-based weather radar. This resolution enhancement technology is called super-resolution or downscaling.
+- # Projects and Research Experience
 
-- **Sally Ride EarthKAM**  
-Earth Knowledge Acquired by Middle School Students is a NASA educational outreach program that enables students, teachers, and the public to learn about Earth from the unique perspective of space. Students sign up for missions and request images; then, the International Space Station captures the images for the students.
+### EarthData Pub
+NASA's Earthdata Pub is a centralized platform designed to assist researchers worldwide in publishing their Earth Science data at NASA's Distributed Active Archive Centers (DAACs). It streamlines the data publication process, offering comprehensive tools and resources for researchers while ensuring data compliance with NASA Earth Science Data Systems (ESDS) standards.
 
-- **NASA Earth Observations for Health (NEOH)**  
-  The NEOH project is striving to improve malaria control decision-making in sub-Saharan Africa by developing and deploying technology for incorporating the latest NASA Earth observations for surface temperatures, precipitation, and vegetation health into the District Health Information Software 2 (DHIS2) used worldwide, including all sub- Saharan African countries.
+---
 
-- **Global Hydrometeorology Resource Center Projects**
+### NASA Cloud-based Analytical Framework for Precipitation
+In collaboration with the NASA Marshall Space Flight Center (NASA/MSFC), the project focuses on software development and machine learning model development to enhance the resolution of GPM data and improve the identification of convective-scale precipitation features, particularly outside the range of ground-based weather radar. This resolution enhancement technology is called *super-resolution* or *downscaling*.
 
-	Global Hydrometeorology Resource Center (GHRC) is to provide a comprehensive active archive of both data and knowledge augmentation services with a focus on hazardous weather, its governing dynamical and physical processes, and associated applications. Within this broad mandate, GHRC will focus on lightning, tropical cyclones, and storm-induced hazards through integrated collections of satellite, airborne, and in-situ data sets. The GHRC is a partnership between NASA Marshall Space Flight Center (MSFC) and The University of Alabama in Huntsville (UAH).
+---
 
-Responsibilities:
-  - Design discussions to provide extensive solutions to the requirements
-  - Design and analysis of systems and data for various projects
-  - Investigation and incorporation of Artificial Intelligence/Machine Learning/Deep Learning methodologies in projects
-  - Research and develop machine learning models and provide software solutions
-  - Application development using Java and front-end frameworks.
-  - Participation in data and systems life cycle
-  - Collaborations with customers and partners
-  - Mentoring students who work as a research assistant
-  - Research to develop new techniques and systems that ultimately solve real-world problems through the transfer of innovative technologies and knowledge
+### Sally Ride EarthKAM
+Earth Knowledge Acquired by Middle School Students (EarthKAM) is a NASA educational outreach program that enables students, teachers, and the public to learn about Earth from the unique perspective of space. Students sign up for missions and request images, and the International Space Station captures the images for them.
+
+---
+
+### NASA Earth Observations for Health (NEOH)
+The NEOH project strives to improve malaria control decision-making in sub-Saharan Africa by developing and deploying technology that incorporates the latest NASA Earth observations (surface temperatures, precipitation, and vegetation health) into the District Health Information Software 2 (DHIS2), used across all sub-Saharan African countries.
+
+---
+
+### Global Hydrometeorology Resource Center Projects
+The Global Hydrometeorology Resource Center (GHRC) provides a comprehensive active archive of data and knowledge augmentation services focusing on hazardous weather, its governing processes, and associated applications. Within this broad mandate, GHRC focuses on lightning, tropical cyclones, and storm-induced hazards through integrated collections of satellite, airborne, and in-situ datasets. GHRC is a partnership between NASA Marshall Space Flight Center (MSFC) and The University of Alabama in Huntsville (UAH).
+
+---
+
+### Earthdata Search
+Earthdata Search is NASA's comprehensive platform for discovering and accessing Earth Science data from its Distributed Active Archive Centers (DAACs). It provides advanced search features, including spatial, temporal, and data type parameter filters. Users can visualize, download, and integrate data programmatically via APIs or the Earthdata Download Tool for efficient bulk data retrieval. Earthdata Search empowers researchers, educators, and decision-makers worldwide to leverage NASA's extensive Earth observation data for scientific research and practical applications.
+
+---
+
+## Responsibilities on the Above Projects
+- Design discussions to provide extensive solutions to requirements  
+- Design and analysis of systems and data for various projects  
+- Investigation and incorporation of Artificial Intelligence/Machine Learning/Deep Learning methodologies  
+- Research and development of machine learning models and software solutions  
+- Application development using Java, React, AWS, and front-end frameworks  
+- Participation in data and systems life cycle  
+- Collaborations with customers and partners  
+- Mentoring students who work as research assistants  
+- Developing new techniques and systems to solve real-world problems through the transfer of innovative technologies and knowledge  
+
 
 
 ### Part-time Instructor (August 2022 – May 2024)             
