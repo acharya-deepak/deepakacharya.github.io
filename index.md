@@ -1,4 +1,4 @@
-# SOFTWARE ENGINEER (AI/ML)
+# Principal Research Scientist
    **LinkedIn**: [linkedin.com/in/deepakbacharya](https://linkedin.com/in/deepakbacharya)  
 **Google Scholar**: [scholar.google.com/citations?user=NkS_pkUAAAAJ](https://scholar.google.com/citations?user=NkS_pkUAAAAJ)
 
